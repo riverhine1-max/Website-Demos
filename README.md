@@ -20,7 +20,7 @@ A collection of unofficial redesign concepts for local Treasure Valley businesse
 - Demo: https://riverhine1-max.github.io/Website-Demos/patriot-cleaning/
 - Official website: https://www.patriotcleanings.com/
 
-**Outreach status:** Not contacted yet
+**Outreach status:** Email sent September 15, 2026 — awaiting reply
 
 ---
 
@@ -31,14 +31,14 @@ A collection of unofficial redesign concepts for local Treasure Valley businesse
 
 **Contact**
 - Phone: (208) 314-2675
-- Email: 208idlandscapes@gmail.com
+- Email: 208idlandscapes@gmail.com — invalid/bounced on September 15, 2026
 - Address: 2064 N Applewood, Meridian, ID 83646
 
 **Links**
 - Demo: https://riverhine1-max.github.io/Website-Demos/id-landscapes/
 - Official website: https://idlandscapes.weebly.com/
 
-**Outreach status:** Not contacted yet
+**Outreach status:** Email attempt bounced — replacement contact needed
 
 ---
 
@@ -56,7 +56,7 @@ A collection of unofficial redesign concepts for local Treasure Valley businesse
 - Demo: https://riverhine1-max.github.io/Website-Demos/blast-exterior-cleaning/
 - Official website: https://www.blastcleanidaho.com/
 
-**Outreach status:** Not contacted yet
+**Outreach status:** Email sent September 15, 2026 — awaiting reply
 
 ---
 
@@ -74,7 +74,7 @@ A collection of unofficial redesign concepts for local Treasure Valley businesse
 - Demo: https://riverhine1-max.github.io/Website-Demos/boise-home-painting/
 - Official website: https://boisehomepainting.com/
 
-**Outreach status:** Not contacted yet
+**Outreach status:** Email sent September 15, 2026 — awaiting reply
 
 ---
 
@@ -106,10 +106,10 @@ https://riverhine1-max.github.io/Website-Demos/
 
 | Business | Demo Ready | Contact Found | Contacted | Replied | Follow-up |
 |---|---:|---:|---:|---:|---:|
-| Patriot Cleaning | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| ID Landscapes | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Blast Exterior Cleaning | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Boise Home Painting | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
+| Patriot Cleaning | ✅ | ✅ | ✅ Sep 15 | ⬜ | ⬜ |
+| ID Landscapes | ✅ | ⚠️ Email bounced | ❌ | ⬜ | Replace contact |
+| Blast Exterior Cleaning | ✅ | ✅ | ✅ Sep 15 | ⬜ | ⬜ |
+| Boise Home Painting | ✅ | ✅ | ✅ Sep 15 | ⬜ | ⬜ |
 | PAINTCO | ✅ | Website form | ⬜ | ⬜ | ⬜ |
 
 ---
