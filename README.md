@@ -98,7 +98,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/creative-surfaces/
 - Official website: https://creativesurfacesidaho.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Glidden Concrete Construction
 **Business type:** Concrete construction  
@@ -112,7 +112,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/glidden-concrete/
 - Official website: https://gliddenconcrete.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Evenflo Heating & Cooling
 **Business type:** Heating, cooling & air quality  
@@ -126,7 +126,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/evenflo-heating/
 - Official website: https://www.evenfloheatingandair.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Meridian Tree Service
 **Business type:** Tree care & removal  
@@ -140,7 +140,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/meridian-tree-service/
 - Official website: https://meridiantreeidaho.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Garage Door Essentials
 **Business type:** Garage-door repair & installation  
@@ -154,7 +154,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/garage-door-essentials/
 - Official website: https://boisegaragedoorrepairs.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### A1 Handyman
 **Business type:** Home repair & improvement  
@@ -168,7 +168,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/a1-handyman/
 - Official website: https://www.handyman-boise.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Peter’s Carpet Cleaning
 **Business type:** Carpet, upholstery & hard-surface cleaning  
@@ -182,7 +182,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/peters-carpet-cleaning/
 - Official website: https://petercarpetcleaner.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Idaho Floor Supply
 **Business type:** Flooring showroom & installation  
@@ -196,7 +196,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/idaho-floor-supply/
 - Official website: https://idahofloorsupply.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### J & A Landscape
 **Business type:** Landscaping  
@@ -210,7 +210,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/ja-landscape/
 - Official website: https://jandalandscapeidaho.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ### Boise Detail
 **Business type:** Automotive detailing  
@@ -224,7 +224,7 @@ https://riverhine1-max.github.io/Website-Demos/
 - Demo: https://riverhine1-max.github.io/Website-Demos/boise-detail/
 - Official website: https://www.boisedetailinc.com/
 
-**Outreach status:** Demo ready — not contacted yet
+**Outreach status:** Email sent Sep 16, 2026 — awaiting reply
 
 ---
 
@@ -237,16 +237,16 @@ https://riverhine1-max.github.io/Website-Demos/
 | Blast Exterior Cleaning | ✅ | ✅ | ✅ Sep 15 | ⬜ | ⬜ |
 | Boise Home Painting | ✅ | ✅ | ✅ Sep 15 | ⬜ | ⬜ |
 | PAINTCO | ✅ | Website form | ⬜ | ⬜ | ⬜ |
-| Creative Surfaces | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Glidden Concrete Construction | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Evenflo Heating & Cooling | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Meridian Tree Service | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Garage Door Essentials | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| A1 Handyman | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Peter’s Carpet Cleaning | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Idaho Floor Supply | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| J & A Landscape | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
-| Boise Detail | ✅ | ✅ | ⬜ | ⬜ | ⬜ |
+| Creative Surfaces | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Glidden Concrete Construction | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Evenflo Heating & Cooling | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Meridian Tree Service | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Garage Door Essentials | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| A1 Handyman | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Peter’s Carpet Cleaning | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Idaho Floor Supply | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| J & A Landscape | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
+| Boise Detail | ✅ | ✅ | ✅ Sep 16 | ⬜ | ⬜ |
 
 ---
 
