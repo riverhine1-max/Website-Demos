@@ -304,3 +304,9 @@ Website-Demos/
 The directory uses real demo screenshots, search, and service filters. Every demo includes a shared All demos link and switcher; directory filters persist within the same browser session. Shared controls live in assets/browser.css and assets/browser.js.
 
 Run `node tests/directory.cjs` with Playwright and Microsoft Edge installed. Set TEST_URL to a static preview server (default http://127.0.0.1:8126/) or the live directory URL. Tests cover four viewport widths and all 15 demo switchers.
+
+## Individual design demos
+
+All 15 business pages have individually authored compositions in scripts/build-sites.py, with shared accessibility and responsive primitives in assets/bespoke.css. Each demo is a compact concept with a business-specific preview interaction; enquiry forms never submit or save information. Run the Python build script to regenerate the static pages. Reference photography is attributed in each footer, with exact source URLs in assets/brands/sources.json. Illustrations are native CSS/SVG concept art.
+
+Run `node tests/bespoke.cjs` for 60 viewport/page checks, image decoding, preview interactions, and demo-form behavior. The directory test also covers switching and returning to the collection.
