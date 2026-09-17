@@ -298,3 +298,9 @@ Website-Demos/
 - Verify contact information before sending outreach.
 - Update the tracking table after every email, reply, follow-up, or sale.
 - Personalized outreach drafts for the 10-business batch are included in `OUTREACH-EMAILS.md`.
+
+## Directory navigation
+
+The directory uses real demo screenshots, search, and service filters. Every demo includes a shared All demos link and switcher; directory filters persist within the same browser session. Shared controls live in assets/browser.css and assets/browser.js.
+
+Run `node tests/directory.cjs` with Playwright and Microsoft Edge installed. Set TEST_URL to a static preview server (default http://127.0.0.1:8126/) or the live directory URL. Tests cover four viewport widths and all 15 demo switchers.

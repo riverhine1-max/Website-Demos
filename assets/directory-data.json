@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "patriot-cleaning",
+    "name": "Patriot Cleaning",
+    "category": "Automotive",
+    "note": "A bold first impression with a direct path to detailing packages."
+  },
+  {
+    "slug": "id-landscapes",
+    "name": "ID Landscapes",
+    "category": "Outdoors",
+    "note": "Warm materials and a landscape-lighting focus."
+  },
+  {
+    "slug": "blast-exterior-cleaning",
+    "name": "Blast Exterior Cleaning",
+    "category": "Cleaning",
+    "note": "A fresh blue palette with easy-to-scan exterior services."
+  },
+  {
+    "slug": "boise-home-painting",
+    "name": "Boise Home Painting",
+    "category": "Home improvement",
+    "note": "An editorial approach to color, craft, and quote requests."
+  },
+  {
+    "slug": "paintco",
+    "name": "PAINTCO",
+    "category": "Home improvement",
+    "note": "A confident palette for a straightforward painting concept."
+  },
+  {
+    "slug": "creative-surfaces",
+    "name": "Creative Surfaces",
+    "category": "Home improvement",
+    "note": "Warm mineral tones and a finish-first presentation."
+  },
+  {
+    "slug": "glidden-concrete",
+    "name": "Glidden Concrete Construction",
+    "category": "Home improvement",
+    "note": "Industrial typography and a clear construction hierarchy."
+  },
+  {
+    "slug": "evenflo-heating",
+    "name": "Evenflo Heating & Cooling",
+    "category": "Home improvement",
+    "note": "A service-led layout that makes the next step easy to find."
+  },
+  {
+    "slug": "meridian-tree-service",
+    "name": "Meridian Tree Service",
+    "category": "Outdoors",
+    "note": "An organic visual direction for local tree care."
+  },
+  {
+    "slug": "garage-door-essentials",
+    "name": "Garage Door Essentials",
+    "category": "Home improvement",
+    "note": "A focused repair and installation service flow."
+  },
+  {
+    "slug": "a1-handyman",
+    "name": "A1 Handyman",
+    "category": "Home improvement",
+    "note": "A practical layout for everyday home repair needs."
+  },
+  {
+    "slug": "peters-carpet-cleaning",
+    "name": "Peter\u00e2\u20ac\u2122s Carpet Cleaning",
+    "category": "Cleaning",
+    "note": "A clean service overview with a simple request flow."
+  },
+  {
+    "slug": "idaho-floor-supply",
+    "name": "Idaho Floor Supply",
+    "category": "Home improvement",
+    "note": "A material-led concept for comparing flooring options."
+  },
+  {
+    "slug": "ja-landscape",
+    "name": "J & A Landscape",
+    "category": "Outdoors",
+    "note": "A natural palette and an approachable landscaping layout."
+  },
+  {
+    "slug": "boise-detail",
+    "name": "Boise Detail",
+    "category": "Automotive",
+    "note": "An automotive concept with a strong service-to-inquiry flow."
+  }
+]
